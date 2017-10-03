@@ -15,7 +15,7 @@ function divide (a, b) {
 }
 
 function inc(n) {
-  return 
+  return
 }
 
 function dec(n) {
@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt(n){
-  
+
 }
